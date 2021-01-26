@@ -53,7 +53,7 @@ Before trying out this feature, make sure you have the following requirements:
 
 - Windows 10 Enterprise E5 license OR Microsoft 365 E3 + Microsoft 365 E5 Security add-on.
 - Access to Microsoft Defender Security Center portal
-- Devices running Windows 10 Anniversary Update (version 1607) or later with the latest MoCAMP update.
+- Devices running Windows 10 Anniversary Update (version 1607) or later with the latest Monthly Core Antimalware Platform (MoCAMP) update.
 
 If Windows Defender SmartScreen isn't turned on, Network Protection will take over the blocking. It requires [enabling Network Protection](enable-network-protection.md) on the device. Chrome, Firefox, Brave, and Opera are currently 3rd party browsers in which this feature is enabled.
 
